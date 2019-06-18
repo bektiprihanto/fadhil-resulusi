@@ -3,3 +3,8 @@ rencana penambahan
 1 melafalkan niat
   - Yakni mengucapkan dengan lisan
 2 doa sblm wudhu yg tdk sesuai sunnah
+
+List Belajar :
+- Front End
+- Back End
+- Mobile
