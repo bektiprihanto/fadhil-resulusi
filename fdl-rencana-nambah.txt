@@ -8,7 +8,8 @@ List Belajar :
 - Front End
   + React
 - Back End
-  + Laravel
+  + Node JS
 - Mobile
-  + React Native
-  
+  + Kotlin
+- ui/ux
+  + Adobe XD
