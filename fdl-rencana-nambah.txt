@@ -6,5 +6,9 @@ rencana penambahan
 
 List Belajar :
 - Front End
+  + React
 - Back End
+  + Laravel
 - Mobile
+  + React Native
+  
