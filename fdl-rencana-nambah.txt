@@ -6,7 +6,7 @@ rencana penambahan
 
 List Belajar :
 - Front End
-  + Vue
+  + React
 - Back End
   + Node JS
 - Mobile
