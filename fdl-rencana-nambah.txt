@@ -11,3 +11,5 @@ List Belajar :
   + Node JS
 - Mobile
   + Kotlin
+- ui/ux
+  + Adobe XD
